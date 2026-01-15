@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+sqlmodel
+python-multipart
+opencv-python>=4.8.0
+numpy
+qdrant-client
+mediapipe
+python-jose[cryptography]
+passlib[bcrypt]
+scipy
+pillow
